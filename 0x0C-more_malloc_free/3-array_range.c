@@ -24,7 +24,7 @@ while (min <= max)
 {
 a[i] = min;
 i++;
-min++
+min++;
 }
 return (a);
 }
