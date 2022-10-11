@@ -3,9 +3,9 @@
 
 /**
  * struct dog - structure dog
- * @name: attribute pointer to char name's dog
- * @age: attribute float age's dog
- * @owner: attribute pointers to char owner's dog
+ * @name: atribute pointer to char name's dog
+ * @age: atribute float age's dog
+ * @owner: atribute pointers to char owner's dog
  */
 
 struct dog
