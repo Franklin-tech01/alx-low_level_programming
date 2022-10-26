@@ -10,8 +10,9 @@
  * @next: points to the next node
  *
  * Description: singly linked list node structure
+ *
  */
-typedef struct listnt_s
+typedef struct listint_s
 {
 	int n;
 	struct listint_s *next;
